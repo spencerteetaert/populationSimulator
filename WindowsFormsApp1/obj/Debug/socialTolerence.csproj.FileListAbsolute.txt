@@ -1,0 +1,12 @@
+C:\Users\iuiuvl\Downloads\SocialTolerance-20171005T163020Z-001\SocialTolerance\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\iuiuvl\Downloads\SocialTolerance-20171005T163020Z-001\SocialTolerance\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\iuiuvl\Downloads\SocialTolerance-20171005T163020Z-001\SocialTolerance\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\iuiuvl\Downloads\SocialTolerance-20171005T163020Z-001\SocialTolerance\WindowsFormsApp1\obj\Debug\socialTolerence.csprojResolveAssemblyReference.cache
+C:\Users\iuiuvl\Downloads\SocialTolerance-20171005T163020Z-001\SocialTolerance\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\iuiuvl\Downloads\SocialTolerance-20171005T163020Z-001\SocialTolerance\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\iuiuvl\Downloads\SocialTolerance-20171005T163020Z-001\SocialTolerance\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\iuiuvl\Downloads\SocialTolerance-20171005T163020Z-001\SocialTolerance\WindowsFormsApp1\obj\Debug\socialTolerence.csproj.GenerateResource.Cache
+C:\Users\iuiuvl\Downloads\SocialTolerance-20171005T163020Z-001\SocialTolerance\WindowsFormsApp1\obj\Debug\socialTolerence.csproj.CoreCompileInputs.cache
+C:\Users\iuiuvl\Downloads\SocialTolerance-20171005T163020Z-001\SocialTolerance\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\iuiuvl\Downloads\SocialTolerance-20171005T163020Z-001\SocialTolerance\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\iuiuvl\Downloads\SocialTolerance-20171005T163020Z-001\SocialTolerance\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutBox1.resources
